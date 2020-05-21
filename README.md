@@ -9,7 +9,7 @@ __WARNING:__ NEVER let anyone access your Masternode with ANY remote access tool
 
 __Throughout this guide__ you will find referral links, all that I ask is that you use them to support my work. I also ask that should you modify these instructions that you keep the referral links there - unless your new instructions use another service not already referred. I also ask that you leave these warnings and notices here. 
 
-Anyone who forks this repository without leaving these notices here is trying to scam you!
+__Anyone who forks this repository without leaving these notices here is trying to scam you!__
 
 __Thank you!__
 
