@@ -1,4 +1,4 @@
-## Energi-Masternode-Setup-Guide<br />
+# Energi-Masternode-Setup-Guide<br />
 ---
 __WARNING:__ NEVER download files except from the [Energi Wiki](https://docs.energi.software/) unless at your own risk!<br />
 __WARNING:__ NEVER let anyone install your Masternode for you! This guide will help you :)<br />
