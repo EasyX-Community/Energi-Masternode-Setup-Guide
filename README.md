@@ -87,6 +87,7 @@ Example:
 [ubuntu@server ~]$ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 3B4FE6ACC0B21F32
 ```
 <br />
+
 ---
 
 ### Conclusion
@@ -98,5 +99,9 @@ If you have any issues you can contact `MooCat ( pool.easyx.cc ) #4182` UID: 409
 Issue tickets can also be submitted for help. Do NOT send sensitive information over Discord OR support tickets!
 
 Good Day :)
+<br >
+<br >
 
 __EOF__
+<br >
+<br >
