@@ -39,11 +39,12 @@ __Anyone who forks this repository without leaving these notices here is trying 
 ---
 ### Step 1: Deploy a VPS instance
 - Visit [https://www.vultr.com/?ref=8543730-6G](https://www.vultr.com/?ref=8543730-6G) and sign up. Your account will be auto credited for $100 which expires at the end of the month (basically 1 month free)
+-  run `ssh root@192.168.1.15` (replace root username and IP) to ssh to your system
 -  run `sudo apt update ; sudo apt upgrade -y ; sudo apt dist-upgrade -y ;` to update your system
 -  run `sudo apt install -y htop git logrotate net-tools psmisc;` to install requirements
 -  [Set up 2fa](https://www.vultr.com/docs/using-two-factor-authentication-to-login-to-vultr-control-panel) on your Vultr node
 -  [Set up swap space](https://www.vultr.com/docs/setup-swap-file-on-linux) on your Vultr node
-<br />
+<br /><br />
 
 ---
 ### Step 2: Connect to your VPS and complete basic setup
