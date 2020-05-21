@@ -27,16 +27,12 @@ __Thank you!__<br />
 ---
 ### An overview of referral links
 ##### Used within this tutorial:
-- Vultr - Get $100 USD free for the first month!<br />
-[https://www.vultr.com/?ref=8543730-6G](https://www.vultr.com/?ref=8543730-6G)
-- Kucoin - A great exchange to buy Energi / NRG<br />
-[https://www.kucoin.com/ucenter/signup?rcode=24g7KdH](https://www.kucoin.com/ucenter/signup?rcode=24g7KdH)
+- Vultr - Get $100 USD free for the first month! [https://www.vultr.com/?ref=8543730-6G](https://www.vultr.com/?ref=8543730-6G)
+- Kucoin - A great exchange to buy Energi / NRG [https://www.kucoin.com/ucenter/signup?rcode=24g7KdH](https://www.kucoin.com/ucenter/signup?rcode=24g7KdH)
 
 ##### NOT used within this tutorial (pls support!):
-- Brave Browser - Still using IE, Google, Firefox, Opera? Why? Block ads, earn crypto, keep your privacy.<br />
-[https://brave.com/les666](https://brave.com/les666)
-- Lbry - A great exchange to buy Energi / NRG<br />
-[https://api.lbry.com/user/refer?r=7rX8ZsRimxQx3xA6zvBAcHS4vawscmaE](https://api.lbry.com/user/refer?r=7rX8ZsRimxQx3xA6zvBAcHS4vawscmaE)
+- Brave Browser - Still using IE, Google, Firefox, Opera? Why? Block ads, earn crypto, keep your privacy. [https://brave.com/les666](https://brave.com/les666)
+- Lbry - A great exchange to buy Energi / NRG [https://api.lbry.com/user/refer?r=7rX8ZsRimxQx3xA6zvBAcHS4vawscmaE](https://api.lbry.com/user/refer?r=7rX8ZsRimxQx3xA6zvBAcHS4vawscmaE)
 
 ---
 ### Step 1: Deploy a VPS instance
