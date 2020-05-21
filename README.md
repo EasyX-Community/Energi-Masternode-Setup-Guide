@@ -49,8 +49,6 @@ RAM (Memory)	  2 GB	          4 GB
 Storage	          30 GB	          30 GB
 SWAP	          2 GB	          0 GB
 ```
-<br />
-
 ---
 ### Step 2: Connect to your VPS and complete basic setup
 -  run `ssh root@192.168.1.15` (replace root username and IP) to ssh to your system
