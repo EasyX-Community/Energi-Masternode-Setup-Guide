@@ -15,7 +15,7 @@ __Thank you!__
 
 ---
 ### Table of Contents:
-- [Referral Links]() - An overview of referral links
+- [Referral Links](https://github.com/EasyX-Community/Energi-Masternode-Setup-Guide/blob/master/README.md#referral-links) - An overview of referral links
 <br /><br />
 - [Step 1]() - Deploy a VPS instance
 - [Step 2]() - Connect to your VPS and complete basic setup
@@ -27,4 +27,34 @@ __Thank you!__
 <br />
 
 ---
-### Referral Links
+### An overview of referral links
+<br />
+
+---
+### Deploy a VPS instance
+<br />
+
+---
+### Connect to your VPS and complete basic setup
+<br />
+
+---
+### Install and run Energi Masternode Install script
+<br />
+
+---
+### Obtain & Deposit your collateral for the Masternode
+<br />
+
+---
+### Optional steps to complete
+<br />
+
+---
+### Troubleshooting any issues
+<br />
+
+---
+### Conclusion
+
+__EOF__
