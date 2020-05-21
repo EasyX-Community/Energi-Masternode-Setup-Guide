@@ -10,19 +10,20 @@ __Anyone who forks this repository without leaving these notices here is trying 
 #### ~ LeshaCat
 
 ---
-__WARNING:__ NEVER download files except from the [Energi Wiki](https://docs.energi.software/) unless at your own risk!<br />
-__WARNING:__ NEVER let anyone install your Masternode for you! This guide will help you :)<br />
-__WARNING:__ NEVER let anyone access your Masternode with ANY remote access tools (ssh, ftp, TeamViewer, etc.)<br /><br />
-__WARNING:__ I will NEVER direct message you unless you message me first. You can find `MooCat ( pool.easyx.cc ) #4182 UID: 409032031713099788` this Discord server: [https://discord.gg/pUUJKYB](https://discord.gg/pUUJKYB) <br /><br />
-__WARNING:__ Only send your assets to the [Energi Nexus](https://nexus.energi.network/). Make sure the URL is correct and the SSL certificate is valid. If you are using this guide, you are responsible for your assets and where you send them. As a courtousey we will remind you of this again.
+### WARNINGS (pls read!):
+- NEVER download files except from the [Energi Wiki](https://docs.energi.software/) unless at your own risk!<br />
+- NEVER let anyone install your Masternode for you! This guide will help you :)<br />
+- NEVER let anyone access your Masternode with ANY remote access tools (ssh, ftp, TeamViewer, etc.)<br /><br />
+- I will NEVER direct message you unless you message me first. You can find `MooCat ( pool.easyx.cc ) #4182 UID: 409032031713099788` this Discord server: [https://discord.gg/pUUJKYB](https://discord.gg/pUUJKYB) <br /><br />
+- Only send your assets to the [Energi Nexus](https://nexus.energi.network/). Make sure the URL is correct and the SSL certificate is valid. If you are using this guide, you are responsible for your assets and where you send them. As a courtousey we will remind you of this again.
 
 ---
 ### Table of Contents:
 - [Referral Links](https://github.com/EasyX-Community/Energi-Masternode-Setup-Guide/blob/master/README.md#an-overview-of-referral-links) - An overview of referral links
-- [Step 1](https://github.com/EasyX-Community/Energi-Masternode-Setup-Guide/blob/master/README.md#step-1-deploy-a-vps-instance) - Deploy a VPS instance
-- [Step 2](https://github.com/EasyX-Community/Energi-Masternode-Setup-Guide/blob/master/README.md#step-2-connect-to-your-vps-and-complete-basic-setup) - Connect to your VPS and complete basic setup
-- [Step 3](https://github.com/EasyX-Community/Energi-Masternode-Setup-Guide/blob/master/README.md#step-3-install-and-run-energi-masternode-install-script) - Install and run Energi Masternode Install script
-- [Step 4](https://github.com/EasyX-Community/Energi-Masternode-Setup-Guide/blob/master/README.md#step-4-obtain--deposit-your-collateral-for-the-masternode) - Obtain & Deposit your collateral for the Masternode
+1. [Step 1](https://github.com/EasyX-Community/Energi-Masternode-Setup-Guide/blob/master/README.md#step-1-deploy-a-vps-instance) - Deploy a VPS instance
+2. [Step 2](https://github.com/EasyX-Community/Energi-Masternode-Setup-Guide/blob/master/README.md#step-2-connect-to-your-vps-and-complete-basic-setup) - Connect to your VPS and complete basic setup
+3. [Step 3](https://github.com/EasyX-Community/Energi-Masternode-Setup-Guide/blob/master/README.md#step-3-install-and-run-energi-masternode-install-script) - Install and run Energi Masternode Install script
+4. [Step 4](https://github.com/EasyX-Community/Energi-Masternode-Setup-Guide/blob/master/README.md#step-4-obtain--deposit-your-collateral-for-the-masternode) - Obtain & Deposit your collateral for the Masternode
 - [Optional](https://github.com/EasyX-Community/Energi-Masternode-Setup-Guide/blob/master/README.md#optional-steps-to-complete) - Optional steps to complete
 - [Troubleshooting](https://github.com/EasyX-Community/Energi-Masternode-Setup-Guide/blob/master/README.md#troubleshooting-any-issues) - Troubleshooting any issues
 
