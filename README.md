@@ -32,7 +32,7 @@ __Thank you!__<br />
 
 ##### NOT used within this tutorial (pls support!):
 - Brave Browser - Surf the internet, block ads, earn crypto, and keep your privacy. [https://brave.com/les666](https://brave.com/les666)
-- Lbry - Get paid crypto to post videos. Uncensorable. [https://api.lbry.com/user/refer?r=7rX8ZsRimxQx3xA6zvBAcHS4vawscmaE](https://api.lbry.com/user/refer?r=7rX8ZsRimxQx3xA6zvBAcHS4vawscmaE)
+- Lbry - Get paid crypto to post videos. [https://api.lbry.com/user/refer?r=7rX8ZsRimxQx3xA6zvBAcHS4vawscmaE](https://api.lbry.com/user/refer?r=7rX8ZsRimxQx3xA6zvBAcHS4vawscmaE)
 
 ---
 ### Step 1: Deploy a VPS instance
