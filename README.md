@@ -60,9 +60,41 @@ __Thank you!__<br />
 
 ---
 ### Troubleshooting any issues
-<br />
 
+##### Trouble: Signature errors during APT update/upgrade Ex:
+```
+[ubuntu@server ~]$ sudo apt-get update
+Ign http://security.ubuntu.com trusty-security InRelease
+Get:1 http://security.ubuntu.com trusty-security Release.gpg [933 B]
+...
+Fetched 21.9 MB in 14s (1,537 kB/s)
+Reading package lists... Done
+W: GPG error: http://security.ubuntu.com trusty-security Release: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 40976EAF437D05B5 NO_PUBKEY 3B4FE6ACC0B21F32
+W: GPG error: http://archive.canonical.com trusty Release: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 40976EAF437D05B5 NO_PUBKEY 3B4FE6ACC0B21F32
+W: GPG error: http://archive.ubuntu.com trusty Release: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 40976EAF437D05B5 NO_PUBKEY 3B4FE6ACC0B21F32
+W: GPG error: http://archive.ubuntu.com trusty-updates Release: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 40976EAF437D05B5 NO_PUBKEY 3B4FE6ACC0B21F32
+[ubuntu@server ~]$ 
+```
+__Solution:__<br />
+
+Replace SIGNATURE with the signature missing the PUBKEY and run the following command:
+```
+[ubuntu@server ~]$ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys SIGNATURE
+```
+Example:
+```
+[ubuntu@server ~]$ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 3B4FE6ACC0B21F32
+```
+<br />
 ---
 ### Conclusion
+
+I hope you've found this setup guide useful! 
+
+If you have any issues you can contact `MooCat ( pool.easyx.cc ) #4182` UID: 409032031713099788 on [Discord](https://discord.gg/pUUJKYB)
+
+Issue tickets can also be submitted for help. Do NOT send sensitive information over Discord OR support tickets!
+
+Good Day :)
 
 __EOF__
