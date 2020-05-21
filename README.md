@@ -33,8 +33,8 @@ __Anyone who forks this repository without leaving these notices here is trying 
 - Kucoin - A great exchange to buy Energi / NRG [https://www.kucoin.com/ucenter/signup?rcode=24g7KdH](https://www.kucoin.com/ucenter/signup?rcode=24g7KdH)
 
 ##### NOT used within this tutorial (pls support!):
-- Brave Browser - Surf the internet, block ads, earn crypto, and keep your privacy. [https://brave.com/les666](https://brave.com/les666)
 - Lbry - Get paid crypto to post videos. [https://lbry.tv/$/invite/@leshacat:7](https://lbry.tv/$/invite/@leshacat:7)
+- Brave Browser - Surf the internet, block ads, earn crypto, and keep your privacy. [https://brave.com/les666](https://brave.com/les666)
 - CoinSwitch - Swap between cryptos with multiple exchanges. [https://coinswitch.co/?ref=6P01FNXZR1](https://coinswitch.co/?ref=6P01FNXZR1)
 
 ---
