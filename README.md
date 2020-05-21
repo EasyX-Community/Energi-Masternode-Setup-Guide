@@ -42,11 +42,11 @@ __Anyone who forks this repository without leaving these notices here is trying 
 ``` 
 Operating System	Ubuntu 18.04 x64	Ubuntu 18.04 x64
 
-Hardware	    Minimum	    Recommended
-CPU (Core)	    1 x 1 GHz	2 x 2 GHz
-RAM (Memory)	2 GB	    4 GB
-Storage	        30 GB	    30 GB
-SWAP	        2 GB	    0 GB
+Hardware	  Minimum	  Recommended
+CPU (Core)	  1 x 1 GHz	  2 x 2 GHz
+RAM (Memory)	  2 GB	          4 GB
+Storage	          30 GB	          30 GB
+SWAP	          2 GB	          0 GB
 ```
 -  run `ssh root@192.168.1.15` (replace root username and IP) to ssh to your system
 -  run `sudo apt update ; sudo apt upgrade -y ; sudo apt dist-upgrade -y ;` to update your system
