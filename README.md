@@ -49,6 +49,8 @@ RAM (Memory)	  2 GB	          4 GB
 Storage	          30 GB	          30 GB
 SWAP	          2 GB	          0 GB
 ```
+<br />
+
 ---
 ### Step 2: Connect to your VPS and complete basic setup
 -  run `ssh root@192.168.1.15` (replace root username and IP) to ssh to your system
@@ -57,13 +59,13 @@ SWAP	          2 GB	          0 GB
 -  run `sudo apt install -y htop git logrotate net-tools psmisc;` to install requirements
 -  [Set up 2fa](https://www.vultr.com/docs/using-two-factor-authentication-to-login-to-vultr-control-panel) on your Vultr node
 -  [Set up swap space](https://www.vultr.com/docs/setup-swap-file-on-linux) on your Vultr node
-<br /><br />
+<br />
 
 ---
 ### Step 3: Install and run Energi Masternode Install script
 
 -  run `bash -ic "$(wget -4qO- -o- raw.githubusercontent.com/energicryptocurrency/energi3-provisioning/master/scripts/linux/energi3-linux-installer.sh)" ; source ~/.bashrc` to download and run the installer script.
--  under construction... <br /><br />
+-  under construction... <br />
 
 ---
 ### Step 4: Obtain & Deposit your collateral for the Masternode
