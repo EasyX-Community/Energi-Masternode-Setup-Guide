@@ -49,7 +49,7 @@ RAM (Memory)	  2 GB	          4 GB
 Storage	          30 GB	          30 GB
 SWAP	          2 GB	          0 GB
 ```
-<br /><br />
+<br />
 
 ---
 ### Step 2: Connect to your VPS and complete basic setup
