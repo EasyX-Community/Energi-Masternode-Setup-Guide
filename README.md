@@ -35,6 +35,7 @@ __Anyone who forks this repository without leaving these notices here is trying 
 ##### NOT used within this tutorial (pls support!):
 - Brave Browser - Surf the internet, block ads, earn crypto, and keep your privacy. [https://brave.com/les666](https://brave.com/les666)
 - Lbry - Get paid crypto to post videos. [https://lbry.tv/$/invite/@leshacat:7](https://lbry.tv/$/invite/@leshacat:7)
+- CoinSwitch - Swap between cryptos with multiple exchanges. [https://coinswitch.co/?ref=6P01FNXZR1](https://coinswitch.co/?ref=6P01FNXZR1)
 
 ---
 ### Step 1: Deploy a VPS instance
