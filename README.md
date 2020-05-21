@@ -1,7 +1,7 @@
 # Energi GEN3 Masternode Setup Guide<br />
 
 ---
-__WARNING:__ NEVER download files except from the [Energi Wiki](https://docs.energi.software/) unless at your own risk!<br /><br />
+__WARNING:__ NEVER download files except from the [Energi Wiki](https://docs.energi.software/) unless at your own risk!<br />
 __WARNING:__ NEVER let anyone install your Masternode for you! This guide will help you :)<br />
 __WARNING:__ NEVER let anyone access your Masternode with ANY remote access tools (ssh, ftp, TeamViewer, etc.)<br /><br />
 __WARNING:__ I will NEVER direct message you unless you message me first. You can find `MooCat ( pool.easyx.cc ) #4182 UID: 409032031713099788` this Discord server: [https://discord.gg/pUUJKYB](https://discord.gg/pUUJKYB) <br /><br />
