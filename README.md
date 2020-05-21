@@ -31,7 +31,7 @@ __Thank you!__<br />
 - Kucoin - A great exchange to buy Energi / NRG [https://www.kucoin.com/ucenter/signup?rcode=24g7KdH](https://www.kucoin.com/ucenter/signup?rcode=24g7KdH)
 
 ##### NOT used within this tutorial (pls support!):
-- Brave Browser - Still using IE, Google, Firefox, Opera? Why? Block ads, earn crypto, keep your privacy. [https://brave.com/les666](https://brave.com/les666)
+- Brave Browser - Surf the internet, block ads, earn crypto, and keep your privacy. [https://brave.com/les666](https://brave.com/les666)
 - Lbry - A great exchange to buy Energi / NRG [https://api.lbry.com/user/refer?r=7rX8ZsRimxQx3xA6zvBAcHS4vawscmaE](https://api.lbry.com/user/refer?r=7rX8ZsRimxQx3xA6zvBAcHS4vawscmaE)
 
 ---
