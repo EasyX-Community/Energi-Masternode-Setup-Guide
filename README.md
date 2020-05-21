@@ -12,6 +12,7 @@ __Throughout this guide__ you will find referral links, all that I ask is that y
 __Anyone who forks this repository without leaving these notices here is trying to scam you!__
 
 __Thank you!__<br />
+
 ~ LeshaCat
 
 ---
@@ -86,7 +87,7 @@ Example:
 
 ---
 
-### Conclusion
+### Conclusion <br />
 
 I hope you've found this setup guide useful! 
 
