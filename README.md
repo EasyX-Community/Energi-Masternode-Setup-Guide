@@ -2,7 +2,8 @@
 ---
 __WARNING:__ NEVER download files except from the [Energi Wiki](https://docs.energi.software/) unless at your own risk!<br />
 __WARNING:__ NEVER let anyone install your Masternode for you! This guide will help you :)<br />
-__WARNING:__ NEVER let anyone access your Masternode with ANY remote access tools (ssh, ftp, TeamViewer, etc.)
+__WARNING:__ NEVER let anyone access your Masternode with ANY remote access tools (ssh, ftp, TeamViewer, etc.)<br /><br />
+__WARNING:__ Only send your assets to the [Energi Nexus](https://nexus.energi.network/). Make sure the URL is correct and the SSL certificate is valid. If you are using this guide, you are responsible for your assets and where you send them. As a courtousey we will remind you of this again.
 
 ---
 #### This is a simple guide to show you step by step how to setup your Energi / NRG Masternode.
