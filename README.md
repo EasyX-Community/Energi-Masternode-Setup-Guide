@@ -38,7 +38,16 @@ __Anyone who forks this repository without leaving these notices here is trying 
 
 ---
 ### Step 1: Deploy a VPS instance
-- Visit [https://www.vultr.com/?ref=8543730-6G](https://www.vultr.com/?ref=8543730-6G) and sign up. Your account will be auto credited for $100 which expires at the end of the month (basically 1 month free)
+- Visit [https://www.vultr.com/?ref=8543730-6G](https://www.vultr.com/?ref=8543730-6G) and sign up. Your account will be auto credited for $100 which expires at the end of the month (basically 1 month free) - Ensure it has the following requirements:
+``` 
+Operating System	Ubuntu 18.04 x64	Ubuntu 18.04 x64
+
+Hardware	    Minimum	    Recommended
+CPU (Core)	    1 x 1 GHz	2 x 2 GHz
+RAM (Memory)	2 GB	    4 GB
+Storage	        30 GB	    30 GB
+SWAP	        2 GB	    0 GB
+```
 -  run `ssh root@192.168.1.15` (replace root username and IP) to ssh to your system
 -  run `sudo apt update ; sudo apt upgrade -y ; sudo apt dist-upgrade -y ;` to update your system
 -  run `sudo apt install -y htop git logrotate net-tools psmisc;` to install requirements
