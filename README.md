@@ -12,7 +12,7 @@ __Throughout this guide__ you will find referral links, all that I ask is that y
 
 __Anyone who forks this repository without leaving these notices here is trying to scam you!__
 
-__~ LeshaCat__
+__ ~ LeshaCat __
 
 ---
 ### Table of Contents:
@@ -32,7 +32,7 @@ __~ LeshaCat__
 
 ##### NOT used within this tutorial (pls support!):
 - Brave Browser - Surf the internet, block ads, earn crypto, and keep your privacy. [https://brave.com/les666](https://brave.com/les666)
-- Lbry - Get paid crypto to post videos. [https://api.lbry.com/user/refer?r=7rX8ZsRimxQx3xA6zvBAcHS4vawscmaE](https://api.lbry.com/user/refer?r=7rX8ZsRimxQx3xA6zvBAcHS4vawscmaE)
+- Lbry - Get paid crypto to post videos. [https://lbry.tv/$/invite/@leshacat:7](https://lbry.tv/$/invite/@leshacat:7)
 
 ---
 ### Step 1: Deploy a VPS instance
