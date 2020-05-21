@@ -61,7 +61,8 @@ __Thank you!__<br />
 ---
 ### Troubleshooting any issues
 
-##### Trouble: Signature errors during APT update/upgrade Ex:
+##### Trouble: Signature errors during APT update/upgrade
+Example:
 ```
 [ubuntu@server ~]$ sudo apt-get update
 Ign http://security.ubuntu.com trusty-security InRelease
@@ -77,7 +78,7 @@ W: GPG error: http://archive.ubuntu.com trusty-updates Release: The following si
 ```
 __Solution:__<br />
 
-Replace SIGNATURE with the signature missing the PUBKEY and run the following command:
+Run the following command and replace SIGNATURE with the signature missing the PUBKEY from above:
 ```
 [ubuntu@server ~]$ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys SIGNATURE
 ```
@@ -87,6 +88,7 @@ Example:
 ```
 <br />
 ---
+
 ### Conclusion
 
 I hope you've found this setup guide useful! 
