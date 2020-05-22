@@ -50,6 +50,7 @@ RAM (Memory)	  2 GB	          4 GB
 Storage	          30 GB	          30 GB
 SWAP	          2 GB	          0 GB
 ```
+
 ---
 ### Step 2: Connect to your VPS and complete basic setup
 -  run `ssh root@192.168.1.15` (replace root username and IP) to ssh to your system
@@ -58,6 +59,7 @@ SWAP	          2 GB	          0 GB
 -  run `sudo apt install -y htop git logrotate net-tools psmisc;` to install requirements
 -  [set up 2fa](https://www.vultr.com/docs/using-two-factor-authentication-to-login-to-vultr-control-panel) on your Vultr account
 -  [set up swap space](https://www.vultr.com/docs/setup-swap-file-on-linux) on your Vultr node
+
 ---
 ### Step 3: Install and run Energi Masternode Install script
 
@@ -76,7 +78,7 @@ SWAP	          2 GB	          0 GB
 - enter `y` to download your keystore file to the VPS
   - upload your keystore file from your wallet to [Firefox Send](https://send.firefox.com/)
   - copy the URL to your keystore file, paste it into the console window and press enter
-- 
+- Your node is now set up and will be ready after downloading the blockchain
 
 ---
 ### Step 4: Obtain & Deposit your collateral for the Masternode
