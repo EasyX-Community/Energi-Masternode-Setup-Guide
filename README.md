@@ -40,7 +40,7 @@ __Anyone who forks this repository without leaving these notices here is trying 
 
 ---
 ### Step 1: Deploy a VPS instance
-- Visit [https://www.vultr.com/?ref=8543730-6G](https://www.vultr.com/?ref=8543730-6G) and sign up. Your account will be auto credited for $100 which expires at the end of the month (basically 1 month free) - Ensure it has the following requirements:
+- visit [https://www.vultr.com/?ref=8543730-6G](https://www.vultr.com/?ref=8543730-6G) and sign up. Your account will be auto credited for $100 which expires at the end of the month (basically 1 month free) - Ensure it has the following requirements:
 ``` 
 Operating System	Ubuntu 18.04 x64	Ubuntu 18.04 x64
 
@@ -56,13 +56,27 @@ SWAP	          2 GB	          0 GB
 -  run `sudo passwd ;` to change your root password
 -  run `sudo apt update ; sudo apt upgrade -y ; sudo apt dist-upgrade -y ;` to update your system
 -  run `sudo apt install -y htop git logrotate net-tools psmisc;` to install requirements
--  [Set up 2fa](https://www.vultr.com/docs/using-two-factor-authentication-to-login-to-vultr-control-panel) on your Vultr account
--  [Set up swap space](https://www.vultr.com/docs/setup-swap-file-on-linux) on your Vultr node
+-  [set up 2fa](https://www.vultr.com/docs/using-two-factor-authentication-to-login-to-vultr-control-panel) on your Vultr account
+-  [set up swap space](https://www.vultr.com/docs/setup-swap-file-on-linux) on your Vultr node
 ---
 ### Step 3: Install and run Energi Masternode Install script
 
--  run `bash -ic "$(wget -4qO- -o- raw.githubusercontent.com/energicryptocurrency/energi3-provisioning/master/scripts/linux/energi3-linux-installer.sh)" ; source ~/.bashrc` to download and run the installer script.
--  under construction... 
+- run `bash -ic "$(wget -4qO- -o- raw.githubusercontent.com/energicryptocurrency/energi3-provisioning/master/scripts/linux/energi3-linux-installer.sh)" ; source ~/.bashrc` to download and run the installer script.
+- enter root password if asked
+- press enter on main screen
+- copy down the username + password for user `nrgstaker`
+- press `y` and press enter to confirm you've copied the information
+- press `a` and press enter to select `new install`
+- enter `y` or `n` to enable 2fa
+  - download [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_us) app
+  - scan the QR code shown on screen
+  - write down the backup codes
+  - enter `y` to accept current 2fa codes
+- energi core node will now download and install
+- enter `y` to download your keystore file to the VPS
+  - upload your keystore file from your wallet to [Firefox Send](https://send.firefox.com/)
+  - copy the URL to your keystore file, paste it into the console window and press enter
+
 ---
 ### Step 4: Obtain & Deposit your collateral for the Masternode
 <br />
