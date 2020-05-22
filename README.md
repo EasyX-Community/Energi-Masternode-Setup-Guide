@@ -18,13 +18,14 @@ __Anyone who forks this repository without leaving these notices here is trying 
 
 ---
 ### Table of Contents:
-- [Referral Links](https://github.com/EasyX-Community/Energi-Masternode-Setup-Guide/blob/master/README.md#an-overview-of-referral-links) - An overview of referral links
-1. [Step 1](https://github.com/EasyX-Community/Energi-Masternode-Setup-Guide/blob/master/README.md#step-1-deploy-a-vps-instance) - Deploy a VPS instance
-2. [Step 2](https://github.com/EasyX-Community/Energi-Masternode-Setup-Guide/blob/master/README.md#step-2-connect-to-your-vps-and-complete-basic-setup) - Connect to your VPS and complete basic setup
-3. [Step 3](https://github.com/EasyX-Community/Energi-Masternode-Setup-Guide/blob/master/README.md#step-3-install-and-run-energi-masternode-install-script) - Install and run Energi Masternode Install script
-4. [Step 4](https://github.com/EasyX-Community/Energi-Masternode-Setup-Guide/blob/master/README.md#step-4-obtain--deposit-your-collateral-for-the-masternode) - Obtain & Deposit your collateral for the Masternode
-- [Optional](https://github.com/EasyX-Community/Energi-Masternode-Setup-Guide/blob/master/README.md#optional-steps-to-complete) - Optional steps to complete
-- [Troubleshooting](https://github.com/EasyX-Community/Energi-Masternode-Setup-Guide/blob/master/README.md#troubleshooting-any-issues) - Troubleshooting any issues
+- [Referral Links](https://github.com/EasyX-Community/Energi-Masternode-Setup-Guide/blob/master/README.md#an-overview-of-referral-links) - An overview of referral links<br />
+[Step 1](https://github.com/EasyX-Community/Energi-Masternode-Setup-Guide/blob/master/README.md#step-1-deploy-a-vps-instance) - Deploy a VPS instance<br />
+[Step 2](https://github.com/EasyX-Community/Energi-Masternode-Setup-Guide/blob/master/README.md#step-2-connect-to-your-vps-and-complete-basic-setup) - Connect to your VPS and complete basic setup<br />
+[Step 3](https://github.com/EasyX-Community/Energi-Masternode-Setup-Guide/blob/master/README.md#step-3-install-and-run-energi-masternode-install-script) - Install and run Energi Masternode Install script<br />
+[Step 4](https://github.com/EasyX-Community/Energi-Masternode-Setup-Guide/blob/master/README.md#step-4-obtain--deposit-your-collateral-for-the-masternode) - Obtain & Deposit your collateral for the Masternode<br />
+- [Optional](https://github.com/EasyX-Community/Energi-Masternode-Setup-Guide/blob/master/README.md#optional-steps-to-complete) - Optional steps to complete<br />
+- [Troubleshooting](https://github.com/EasyX-Community/Energi-Masternode-Setup-Guide/blob/master/README.md#troubleshooting-any-issues) - Troubleshooting any issues<br />
+- [Conclusion](https://github.com/EasyX-Community/Energi-Masternode-Setup-Guide/blob/master/README.md#conclusion) - Concluson and contact information<br />
 
 ---
 ### An overview of referral links
@@ -102,7 +103,7 @@ Example:
 
 ---
 
-### Conclusion <br />
+### Conclusion<br />
 
 I hope you've found this setup guide useful! 
 
