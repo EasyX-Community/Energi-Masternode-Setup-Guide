@@ -89,8 +89,7 @@ SWAP	          2 GB	          0 GB
   - copy your Energi wallet receiving address
 - visit [https://www.kucoin.com/ucenter/signup?rcode=24g7KdH](https://www.kucoin.com/ucenter/signup?rcode=24g7KdH) and sign up
   - log in to your Kucoin account
-  - hover on your account name in the top right
-  - click on `deposit`
+  - hover on your account name in the top right and click on `deposit`
   - click the dropdown and select your currency to deposit
   - copy the address, send the deposit to the address
   - wait for confirmations
