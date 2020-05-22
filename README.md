@@ -4,8 +4,8 @@
 #### This is a simple guide to show you step by step how to setup your GEN3 Energi / NRG Masternode.
 
 ### WARNINGS (please read!):
-- NEVER download files except from the [Energi Wiki](https://docs.energi.software/) `https://docs.energi.software/` unless at your own risk!<br />
 - NEVER let anyone install your Masternode for you! This guide will help you :)<br />
+- NEVER download files except from the [Energi Wiki](https://docs.energi.software/) `https://docs.energi.software/` unless at your own risk!<br />
 - NEVER let anyone access your Masternode with ANY remote access tools (ssh, ftp, TeamViewer, etc.)<br /><br />
 - I will NEVER direct message you unless you message me first. You can find `MooCat ( pool.easyx.cc ) #4182 UID: 409032031713099788` on this Discord server: [https://discord.gg/pUUJKYB](https://discord.gg/pUUJKYB) <br /><br />
 - Only send your assets to the [Energi Nexus](https://nexus.energi.network/). Make sure the URL is correct `https://nexus.energi.network/` and the SSL certificate is valid. If you are using this guide, you are responsible for your assets and where you send them. As a courtousey we will remind you of this again.<br /><br />
