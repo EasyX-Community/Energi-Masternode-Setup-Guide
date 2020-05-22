@@ -10,7 +10,7 @@
 - I will NEVER direct message you unless you message me first. You can find `MooCat ( pool.easyx.cc ) #4182 UID: 409032031713099788` on this Discord server: [https://discord.gg/pUUJKYB](https://discord.gg/pUUJKYB) <br /><br />
 - Only send your assets to the [Energi Nexus](https://nexus.energi.network/). Make sure the URL is correct `https://nexus.energi.network/` and the SSL certificate is valid. If you are using this guide, you are responsible for your assets and where you send them. As a courtousey we will remind you of this again.<br /><br />
 
-__Throughout this guide__ you will find referral links, all that I ask is that you use them to support my work. Should you modify these instructions that you keep the referral links there - unless your new instructions use another service not already referred. I also ask that you leave these warnings and notices here. You can press and hold shift while clicking these links to open them in a new tab.
+__Throughout this guide__ you will find referral links, all that I ask is that you use them to support my work. Should you modify these instructions that you keep the referral links there - unless your new instructions use another service not already referred. I also ask that you leave these warnings and notices here. You can press and hold CTRL while clicking these links to open them in a new tab.
 
 __Anyone who forks this repository without leaving these notices here is trying to scam you!__
 
