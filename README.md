@@ -63,7 +63,7 @@ SWAP	          2 GB	          0 GB
 ---
 ### Step 3: Install and run Energi Masternode Install script
 
-- run `bash -ic "$(wget -4qO- -o- raw.githubusercontent.com/energicryptocurrency/energi3-provisioning/master/scripts/linux/energi3-linux-installer.sh)" ; source ~/.bashrc` to download and run the installer script.
+- run `bash -ic "$(wget -4qO- -o- raw.githubusercontent.com/energicryptocurrency/energi3-provisioning/master/scripts/linux/energi3-linux-installer.sh)" ; source ~/.bashrc` to download and run the installer script
 - enter root password if asked
 - press enter on main screen
 - copy down the username + password for user `nrgstaker`
@@ -78,11 +78,57 @@ SWAP	          2 GB	          0 GB
 - enter `y` to download your keystore file to the VPS
   - upload your keystore file from your wallet to [Firefox Send](https://send.firefox.com/)
   - copy the URL to your keystore file, paste it into the console window and press enter
-- Your node is now set up and will be ready after downloading the blockchain
+- your node is now set up and will be ready after downloading the blockchain
 
 ---
 ### Step 4: Obtain & Deposit your collateral for the Masternode
-<br />
+- download and install Energi wallet on another computer (not on the VPS) from [https://docs.energi.software/en/downloads/myenergiwallet](https://docs.energi.software/en/downloads/myenergiwallet)
+  - install and open the wallet
+  - click on `Create New Wallet` and then click `generate wallet`
+  - follow instructions and copy your backup codes and save them in safe place
+  - copy your Energi wallet receiving address
+- visit [https://www.kucoin.com/ucenter/signup?rcode=24g7KdH](https://www.kucoin.com/ucenter/signup?rcode=24g7KdH) and sign up
+  - log in to your Kucoin account
+  - hover on your account name in the top right
+  - click on `deposit`
+  - click the dropdown and select your currency to deposit
+  - copy the address, send the deposit to the address
+  - wait for confirmations
+  - trade the asset for BTC or ETH if it is not already
+  - click `markets` in the top left
+  - enter your trading password
+  - type in `NRG` and select either `BTC-NRG` or `ETH-NRG` pair
+  - click on the link `transfer` in the buy order form to transfer your BTC/ETH to your trading account
+  - either place a limit order or select `market` and place an order
+  - you need to buy 1000 NRG increments to run a masternode
+  - click on the link `transfer` on the sell order form to transfer your NRG to your main account
+  - hover over your name in the top right
+  - click on withdraw
+  - copy your Energi wallet receiving address from above
+  - enter the amount, press send, and enter your trading password
+- once received it will take about 1 hour for the funds to be added to your `staking balance`
+- now you are ready to deposit your Masternode collateral
+  - visit the [Energi Nexus](https://nexus.energi.network/). Make sure the URL is correct `https://nexus.energi.network/` and the SSL certificate is valid. If you are using this guide, you are responsible for your assets and where you send them
+  - click on `Masternodes`
+  - you can enter your Energi wallet receiving address to check the status of your node
+  - click on `Collateral` on the left side menu
+  - enter your Energi wallet receiving address and click on `Deposit Collateral` - if it is greyed out you do not have enough NRG (need 1000)
+  - login using your keystore file
+  - fill out the pre-filled form to send your collateral and click send
+  - wait for the transaction to confirm
+  - once you've received your MNRG Masternode collateral you can now announce your node
+- now you are ready to announce your Masternode
+  - visit the [Energi Nexus](https://nexus.energi.network/). Make sure the URL is correct `https://nexus.energi.network/` and the SSL certificate is valid. If you are using this guide, you are responsible for your assets and where you send them
+  - click on `Masternodes`
+  - you can enter your Energi wallet receiving address to check the status of your node
+  - click on `Operations` on the left side menu
+  - click on `Announce Masternode`
+  - login using your keystore file
+  - fill out the pre-filled form to announce your masternode and click send
+  - wait for the transaction to confirm
+  - click on `Collateral` on the left side menu
+  - enter your Energi wallet receiving address
+  - watch your node status and balances on this page
 
 ---
 ### Optional steps to complete
